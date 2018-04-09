@@ -1,2 +1,7 @@
-# dotfiles
-My dot files
+# Saranya Krishnan's dot files
+
+- Tmux
+- Vim
+- Oh My Zsh
+
+
